@@ -9,3 +9,15 @@ in the book, since the book always assumes a playbooks directory.
 
 If you encounter any problems with these samples, please submit a GitHub issue
 or a pull request against this repository.
+
+Quick reference to parameters and special variables.
+https://github.com/lorin/ansible-quickref
+
+Ansible master repository
+https://github.com/ansible/ansible
+
+Ansible core modules
+https://github.com/ansible/ansible-modules-core
+
+Ansible extras modules
+https://github.com/ansible/ansible-modules-extras
